@@ -1,2 +1,2 @@
 # aws-nvidia-workstation
-Nvidia-based Workstation with minimal cost considerations
+Nvidia-based Workstation with minimal cost considerations on AWS
